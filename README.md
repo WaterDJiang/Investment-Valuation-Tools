@@ -1,8 +1,6 @@
 # Investment-Valuation-Tools
 Master's Collection of Investment Valuation Tools 大师投资估值工具集合 巴菲特、段永平……持续更新
 
-# Wattter.估值计算 README
-
 ## Introduction
 
 Welcome to the **Wattter.估值计算** tool, a master valuation application designed to provide in-depth financial analysis and valuation using various models including DCF (Discounted Cash Flow) and risk-free yield comparisons. Built with Streamlit, this tool offers a user-friendly interface to input financial data and compute intrinsic values, providing a robust framework for investment analysis.
